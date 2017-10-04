@@ -1,0 +1,60 @@
+#top{
+  height: 87.5px;
+}
+
+#services{
+  height: 95px;
+}
+
+#util{
+  height: 32px;
+}
+
+#news{
+  height: 200px;
+  margin-top:50px;
+}
+
+#most{
+  height: 500px;
+}
+
+#footer{
+  height: 200px;
+}
+
+#logo{
+  height: 33px;
+  color: white;
+  font-size: 14px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+
+
+.green-background {
+  background-color: darkgreen;
+}
+
+.black-background {
+  background-color: #555555;
+  color: white;
+}
+
+.whitesmoke-background {
+  background-color: whitesmoke;
+}
+
+.white-background {
+  background-color: white;
+}
+
+.grad-background {
+  background: url('gradbackground.png') no-repeat center center fixed;
+  background-size: cover;
+  height: 200px;
+}
+
+.colorblocktop {
+  padding-top: 20px;
+}
